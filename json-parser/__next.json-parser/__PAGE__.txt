@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[7290,["3549","static/chunks/3549-50a8aca8df50ca1c.js","6956","static/chunks/6956-14b5828031311634.js","7579","static/chunks/app/json-parser/page-1f9b883bfb3e7797.js"],"default"]
+3:I[8937,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"K4VVKDjLEeB1KOG8nnWRs","rsc":["$","$1","c",{"children":[["$","$L2",null,{"toolId":"json-parser"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

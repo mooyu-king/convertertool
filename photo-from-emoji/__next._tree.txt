@@ -1,0 +1,2 @@
+:HL["/_next/static/css/ada02b006cf09d7e.css","style"]
+0:{"buildId":"bvwUhQKIWeSQZ7si0Wrwh","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"photo-from-emoji","paramType":null,"paramKey":"photo-from-emoji","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

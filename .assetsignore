@@ -1,0 +1,14 @@
+.git
+.git/**
+**/.git/**
+README*
+readme*
+HANDOFF.md
+AGENTS.md
+PRD.md
+.env*
+node_modules/**
+wrangler.*
+.assetsignore
+.gitignore
+ffmpeg/ffmpeg-core.wasm

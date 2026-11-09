@@ -35,15 +35,15 @@
           button:focus-visible,a:focus-visible { outline:3px solid #3080dd; outline-offset:3px; }
           button:disabled { cursor:wait; opacity:.7; }
           svg { width:18px; height:18px; flex-shrink:0; }
-          dialog { position:fixed; inset:0; width:min(390px,calc(100vw - 32px)); max-height:calc(100dvh - 32px); overflow:auto; margin:auto; padding:26px; border:1px solid #657382; border-radius:18px; background:#fff; color:#172238; font:400 15px/1.6 system-ui,sans-serif; text-align:left; letter-spacing:normal; text-transform:none; box-shadow:0 20px 80px #0005; }
+          dialog { position:fixed; inset:0; width:min(390px,calc(100vw - 32px)); max-height:calc(100dvh - 32px); overflow:auto; margin:auto; padding:26px; border:1px solid #657382; border-radius:18px; background:var(--install-surface,#fff); color:var(--install-text,#172238); font:400 15px/1.6 system-ui,sans-serif; text-align:left; letter-spacing:normal; text-transform:none; box-shadow:0 20px 80px #0005; }
           dialog::backdrop { background:#0008; }
           h2 { font-size:22px; line-height:1.3; margin:0 28px 14px 0; }
           p { margin:12px 0; }
-          .note { font-size:13px; color:#485665; }
-          .close { position:absolute; top:10px; right:10px; display:grid; place-items:center; width:32px; height:32px; padding:0; border:0; background:transparent; color:inherit; border-radius:50%; }
+          .note { font-size:13px; color:var(--install-muted,#485665); }
+          .close { position:absolute; top:10px; right:10px; display:grid; place-items:center; width:44px; height:44px; padding:0; border:0; background:transparent; color:inherit; border-radius:50%; }
           .close:hover { background:#17223812; }
           .close svg { width:16px; height:16px; }
-          .copy { min-height:44px; border:1px solid #84909e; border-radius:10px; padding:8px 16px; background:#f1f5f9; color:#172238; font-weight:700; }
+          .copy { min-height:44px; border:1px solid #84909e; border-radius:10px; padding:8px 16px; background:var(--install-hover,#f1f5f9); color:var(--install-text,#172238); font-weight:700; }
           .status { font-size:13px; overflow-wrap:anywhere; }
           @media(max-width:480px) { .trigger { padding:8px 10px; gap:5px; font-size:12px; } }
         </style>

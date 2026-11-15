@@ -1,7 +1,5 @@
 User-Agent: *
 Allow: /
-Disallow: /history
-Disallow: /liked
 
 Host: https://convertertool.net
 Sitemap: https://convertertool.net/sitemap.xml
